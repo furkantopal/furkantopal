@@ -6,4 +6,4 @@
 Boot, Micro-services, Oracle PL/SQL, JDBC, JPA, Hibernate, NoSQL, Cassandra, Hadoop, PostgreSQL, MSSQL, JMS, ActiveMQ, Docker, RESTful API, Postman, Node.js, React, Linux, Shell Scripting, Bash, JSON, HTTP, Web services, Git, GitHub, ClearCase, Bitbucket, Maven, Gradle, npm, Jenkins, Artifactory, JIRA, Confluence, Splunk, Pair programming, TDD, CI/CD, XML, FTP, SFTP
 - 📫 You can reach me via my website: https://furkantopal.com.tr
 
-![snake gif](https://github.com/furkantopal/furkantopal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/furkantopal/furkantopal/blob/output/github-contribution-grid-snake.gif)

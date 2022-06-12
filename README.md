@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Furkan
 
 - ⚡ Software Engineer
-- 🔭 currently working at Cazoo
 - 🌱 my current tech stack: 
 
 **Language:** *TypeScript, JavaScript, Node.js, React, Jest, Java 11+, Spring Boot, Hibernate, JDBC, JPA, RESTful API*

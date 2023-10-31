@@ -13,18 +13,18 @@
 
 **Protocol:** *HTTP, FTP, SFTP*
 
-**Tool:** *Docker, Postman, VSCode, IntelliJ*
+**Tool:** *Docker, Postman, Insomnia, VSCode, IntelliJ*
 
 **CLI:** *Linux, Shell Scripting, Bash*
 
 **Version Control:** *Git, GitHub, Bitbucket, ClearCase*
 
-**Package Manager:** *npm, Maven, Gradle*
+**Package Manager:** *npm, yarn, Maven, Gradle*
 
-**Collaboration:** *Slack, Notion, JIRA, Confluence, Miro*
+**Collaboration:** *Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro*
 
-**Observability:** *Kibana, Sentry, Splunk*
+**Observability:** *Datadog, Matomo, Kibana, Sentry, Splunk*
 
 **Pipeline:**  *GitHub Actions, CircleCI, Jenkins*
 
-**Ways of working:** *Event-Driven Architecture, Test-Driven Development(TDD), CI/CD, DevSecOps, Pair Programming, Code Reviews, Agile, Scrum*
+**Ways of working:** *Event-Driven Architecture, Test-Driven Development(TDD), CI/CD, DevSecOps, Pair Programming, Trunk Based Development, Code Reviews, Agile, Scrum*

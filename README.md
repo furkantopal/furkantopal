@@ -3,9 +3,9 @@
 - ⚡ Software Engineer
 - 🌱 my current tech stack: 
 
-**Language:** *TypeScript, JavaScript, Node.js, React, Jest, Java 11+, Spring Boot, Hibernate, JDBC, JPA, RESTful API*
+**Language/Framework Related:** *TypeScript, JavaScript, Node.js, NestJS, React, Jest, Java 11+, Spring Boot, Hibernate, JDBC, JPA, RESTful API*
 
-**Cloud:** *Serverless, AWS (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch), Terraform, Micro-services*
+**Cloud Related:** *Serverless, AWS (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch), Terraform, Micro-services*
 
 **Database:** *GraphQL, NoSQL, Cassandra, Hadoop, PostgreSQL, MSSQL, Oracle PL/SQL*
 
@@ -13,7 +13,7 @@
 
 **Protocol:** *HTTP, FTP, SFTP*
 
-**Tool:** *Docker, Postman, Insomnia, VSCode, IntelliJ*
+**Tool:** *Docker, Postman, Insomnia, VSCode, IntelliJ, ConfigCat, CookieYes, Sonar*
 
 **CLI:** *Linux, Shell Scripting, Bash*
 
@@ -23,8 +23,8 @@
 
 **Collaboration:** *Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro*
 
-**Observability:** *Datadog, Matomo, Kibana, Sentry, Splunk*
+**Observability:** *Datadog (APM, RUM, Metrics, Heatmaps, Security), Matomo, Kibana, Sentry, Splunk*
 
 **Pipeline:**  *GitHub Actions, CircleCI, Jenkins*
 
-**Ways of working:** *Event-Driven Architecture, Test-Driven Development(TDD), CI/CD, DevSecOps, Pair Programming, Trunk Based Development, Code Reviews, Agile, Scrum*
+**Ways of working:** *Event-Driven Architecture, Test-Driven Development(TDD), CI/CD, DevSecOps, Pair Programming, Trunk Based Development, Domain Driven Design, Code Reviews, Feature Flags, Monorepos, Agile, Scrum*

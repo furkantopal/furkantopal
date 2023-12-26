@@ -1,7 +1,5 @@
 Hey there! 👋 I'm Furkan, a passionate Software Engineer who loves building awesome stuff with code. Here's a glimpse into my tech universe:
 
-https://furkantopal.github.io/whoami
-
 ### About Me
 - ⚡ Software Engineer
 - 🌱 Currently exploring the vast world of technology

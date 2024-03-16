@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Furkan, a experienced Software Engineer who loves building cool stuff with code. Here's a glimpse into my tech universe:
+Hey there! 👋 I'm Furkan, an experienced Software Engineer who loves building cool stuff with code. Here's a glimpse into my tech universe:
 
 ### About Me
 - ⚡ Software Engineer

@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Furkan, a passionate Software Engineer who loves building awesome stuff with code. Here's a glimpse into my tech universe:
+Hey there! 👋 I'm Furkan, a experienced Software Engineer who loves building cool stuff with code. Here's a glimpse into my tech universe:
 
 ### About Me
 - ⚡ Software Engineer
@@ -12,10 +12,10 @@ Hey there! 👋 I'm Furkan, a passionate Software Engineer who loves building aw
 #### Cloud Related
 - Serverless
 - AWS (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
-- Terraform, Micro-services
+- Terraform, Microservices
 
 #### Database
-- GraphQL, NoSQL, Cassandra, Hadoop
+- GraphQL, NoSQL, Cassandra, Hadoop, MongoDB
 - PostgreSQL, MSSQL, Oracle PL/SQL
 
 #### Message Broker
@@ -59,4 +59,4 @@ Hey there! 👋 I'm Furkan, a passionate Software Engineer who loves building aw
 - Monorepos
 - Agile, Scrum
 
-Feel free to connect and let's geek out about tech! 💻✨
+Feel free to connect and let's talk out about tech! 💻✨

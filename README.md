@@ -22,10 +22,7 @@ I'm Furkan, a passionate Software Engineer who enjoys creating innovative soluti
 - **PostgreSQL, MSSQL, Oracle PL/SQL**
 
 ### Message Brokers
-- **JMS, ActiveMQ, Kafka**
-
-### Protocols
-- **HTTP, FTP, SFTP**
+- **JMS, ActiveMQ, Kafka, BullMQ**
 
 ### Tools
 - **Docker, Postman, Insomnia, VSCode, IntelliJ**
@@ -38,7 +35,7 @@ I'm Furkan, a passionate Software Engineer who enjoys creating innovative soluti
 - **Git, GitHub, Bitbucket, ClearCase**
 
 ### Package Managers
-- **npm, yarn, Maven, Gradle**
+- **pnpm, npm, yarn, Maven, Gradle**
 
 ### Collaboration
 - **Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro**

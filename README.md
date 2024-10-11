@@ -1,62 +1,65 @@
-Hey there! 👋 I'm Furkan, an experienced Software Engineer who loves building cool stuff with code. Here's a glimpse into my tech universe:
+# Hey there! 👋
 
-### About Me
+I'm Furkan, a passionate Software Engineer who enjoys creating innovative solutions with code. Here's a peek into my tech world:
+
+## About Me
 - ⚡ Software Engineer
-- 🌱 Currently exploring the vast world of technology
+- 🚀 Committed to continuous learning and growth
 
-### Tech Stack
-#### Language/Framework Related
-- TypeScript, JavaScript, Node.js, NestJS, React, Jest
-- Java, Spring Boot, Hibernate, JDBC, JPA, RESTful API
+## Tech Stack
 
-#### Cloud Related
-- Serverless
-- AWS (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
-- Terraform, Microservices
+### Languages/Frameworks
+- **TypeScript, JavaScript, Node.js, NestJS, React, Jest**
+- **Java, Spring Boot, Hibernate, JDBC, JPA, RESTful API**
 
-#### Database
-- GraphQL, NoSQL, Cassandra, Hadoop, MongoDB
-- PostgreSQL, MSSQL, Oracle PL/SQL
+### Cloud
+- **Serverless**
+- **AWS** (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
+- **Terraform, Microservices**
 
-#### Message Broker
-- JMS, ActiveMQ, Kafka
+### Databases
+- **GraphQL, NoSQL, Cassandra, Hadoop, MongoDB**
+- **PostgreSQL, MSSQL, Oracle PL/SQL**
 
-#### Protocol
-- HTTP, FTP, SFTP
+### Message Brokers
+- **JMS, ActiveMQ, Kafka**
 
-#### Tool
-- Docker, Postman, Insomnia, VSCode, IntelliJ
-- ConfigCat, CookieYes, Sonar
+### Protocols
+- **HTTP, FTP, SFTP**
 
-#### CLI
-- Linux, Shell Scripting, Bash
+### Tools
+- **Docker, Postman, Insomnia, VSCode, IntelliJ**
+- **ConfigCat, CookieYes, Sonar**
 
-#### Version Control
-- Git, GitHub, Bitbucket, ClearCase
+### CLI
+- **Linux, Shell Scripting, Bash**
 
-#### Package Manager
-- npm, yarn, Maven, Gradle
+### Version Control
+- **Git, GitHub, Bitbucket, ClearCase**
 
-#### Collaboration
-- Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro
+### Package Managers
+- **npm, yarn, Maven, Gradle**
 
-#### Observability
-- Datadog (APM, RUM, Metrics, Heatmaps, Security), Matomo, Kibana
-- Sentry, Splunk
+### Collaboration
+- **Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro**
 
-#### Pipeline
-- GitHub Actions, CircleCI, Jenkins
+### Observability
+- **Datadog** (APM, RUM, Metrics, Heatmaps, Security), **Matomo, Kibana**
+- **Sentry, Splunk**
 
-#### Ways of Working
-- Event-Driven Architecture
-- Test-Driven Development (TDD)
-- CI/CD, DevSecOps
-- Pair Programming
-- Trunk Based Development
-- Domain Driven Design
-- Code Reviews
-- Feature Flags
-- Monorepos
-- Agile, Scrum
+### CI/CD Pipelines
+- **GitHub Actions, CircleCI, Jenkins**
 
-Feel free to connect and let's talk out about tech! 💻✨
+### Ways of Working
+- **Event-Driven Architecture**
+- **Test-Driven Development** (TDD)
+- **CI/CD, DevSecOps**
+- **Pair Programming**
+- **Trunk-Based Development**
+- **Domain-Driven Design**
+- **Code Reviews**
+- **Feature Flags**
+- **Monorepos**
+- **Agile, Scrum**
+
+Feel free to connect and let's talk about tech! 💻✨

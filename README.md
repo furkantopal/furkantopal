@@ -14,7 +14,7 @@ I'm Furkan, a passionate Software Engineer who enjoys creating innovative soluti
 
 ### Cloud
 - **Serverless**
-- **AWS** (Lambda, DynamoDB, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
+- **AWS** (Lambda, DynamoDB, Fargate, EC2, DocumentDB, RDS, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
 - **Terraform, Microservices**
 
 ### Databases

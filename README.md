@@ -1,62 +1,65 @@
-# Hey there! 👋
+# Hi, I'm Furkan 👋
 
-I'm Furkan, a passionate Software Engineer who enjoys creating innovative solutions with code. Here's a peek into my tech world:
+Senior Software Engineer based in Munich, building software for climate action 
+at [ClimatePartner](https://www.climatepartner.com).
 
-## About Me
-- ⚡ Software Engineer
-- 🚀 Committed to continuous learning and growth
+I'm a full-stack engineer with backend depth — I can build the API, the 
+infrastructure under it, and the frontend that consumes it. But the part I 
+care most about is the unglamorous backend: the data pipelines, the carbon 
+accounting logic, the API contracts that make sustainability software actually work.
 
-## Tech Stack
+## What I'm into
 
-### Languages/Frameworks
-- **TypeScript, JavaScript, Node.js, NestJS, React, Jest**
-- **Java, Spring Boot, Hibernate, JDBC, JPA, RESTful API**
+- **End-to-end product engineering** — from React components to Lambda functions to PostgreSQL queries
+- **Backend systems that scale** — event-driven architecture, distributed services, observability
+- **API design as product design** — treating specs as the first user interface
+- **Climate tech engineering** — the messy reality of building software for sustainability
+- **Cloud-native architectures** — AWS-deep, infrastructure-as-code, serverless when it fits
 
-### Cloud
-- **Serverless**
-- **AWS** (Lambda, DynamoDB, Fargate, EC2, DocumentDB, RDS, S3, SQS, SNS, IAM, ApiGateway, Eventbridge, CloudWatch)
-- **Terraform, Microservices**
+## How I work
 
-### Databases
-- **GraphQL, NoSQL, Cassandra, Hadoop, MongoDB**
-- **PostgreSQL, MSSQL, Oracle PL/SQL**
+Trunk-based, test-driven, observability-heavy. I write more documentation than 
+most engineers admit to. I prefer boring tools that work over exciting tools 
+that don't.
 
-### Message Brokers
-- **JMS, ActiveMQ, Kafka, BullMQ**
+## Stack I reach for
 
-### Tools
-- **Docker, Postman, Insomnia, VSCode, IntelliJ**
-- **ConfigCat, CookieYes, Sonar**
+**Daily backend:** TypeScript · Node.js · NestJS · Java · Spring Boot · PostgreSQL · AWS (Lambda, SQS, DynamoDB, EventBridge) · Terraform · Datadog
 
-### CLI
-- **Linux, Shell Scripting, Bash**
+**Daily frontend:** TypeScript · React · Jest · modern testing patterns
 
-### Version Control
-- **Git, GitHub, Bitbucket, ClearCase**
+**Comfortable with:** Kafka · MongoDB · Cassandra · Hibernate/JPA · Docker · GraphQL · CI/CD pipelines (GitHub Actions, CircleCI, Jenkins)
 
-### Package Managers
-- **pnpm, npm, yarn, Maven, Gradle**
+**Curious about:** Rust · distributed systems internals · climate data standards (PCAF, GHG Protocol)
 
-### Collaboration
-- **Slack, Notion, JIRA, Tuple, Teams, Confluence, Miro**
+## Ways of working
 
-### Observability
-- **Datadog** (APM, RUM, Metrics, Heatmaps, Security), **Matomo, Kibana**
-- **Sentry, Splunk**
+Event-Driven Architecture · Domain-Driven Design · TDD · DevSecOps · Trunk-Based Development · Feature Flags · Pair Programming · Code Reviews · Monorepos
 
-### CI/CD Pipelines
-- **GitHub Actions, CircleCI, Jenkins**
+## Background
 
-### Ways of Working
-- **Event-Driven Architecture**
-- **Test-Driven Development** (TDD)
-- **CI/CD, DevSecOps**
-- **Pair Programming**
-- **Trunk-Based Development**
-- **Domain-Driven Design**
-- **Code Reviews**
-- **Feature Flags**
-- **Monorepos**
-- **Agile, Scrum**
+Five years in Munich. Before that, software engineering across Turkish companies 
+including Cazoo, Turkcell Technology, and Matriks. The shift from enterprise 
+software to climate tech changed how I think about what software is *for*.
 
-Feel free to connect and let's talk about tech! 💻✨
+Originally from Istanbul. Roots on the Black Sea coast.
+
+## Writing
+
+I write about backend systems, full-stack engineering, sustainability software, 
+and engineering across cultures.
+
+- Medium: [@topallfurkan](https://topallfurkan.medium.com)
+- LinkedIn: [furkantopal](https://linkedin.com/in/furkantopal)
+
+## Let's talk
+
+Open to conversations on:
+- Carbon accounting and ESG software architecture
+- Full-stack engineering at scale
+- API design and developer experience
+- Engineering culture between Turkey and Germany
+- Climate tech hiring (always curious what teams are building)
+
+Reach me on [LinkedIn](https://linkedin.com/in/furkantopal) — that's where I'm 
+most responsive.

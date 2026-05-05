@@ -1,7 +1,7 @@
 # Hi, I'm Furkan 👋
 
 Senior Software Engineer based in Munich, building software for climate action 
-at [ClimatePartner](https://www.climatepartner.com).
+at ClimatePartner.
 
 I'm a full-stack engineer with backend depth — I can build the API, the 
 infrastructure under it, and the frontend that consumes it. But the part I 
@@ -55,11 +55,8 @@ and engineering across cultures.
 ## Let's talk
 
 Open to conversations on:
-- Carbon accounting and ESG software architecture
 - Full-stack engineering at scale
 - API design and developer experience
-- Engineering culture between Turkey and Germany
-- Climate tech hiring (always curious what teams are building)
 
 Reach me on [LinkedIn](https://linkedin.com/in/furkantopal) — that's where I'm 
 most responsive.
